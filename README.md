@@ -1,0 +1,1 @@
+Cleaned data in Excel to present global statistics on new COVID-19 cases and deaths during the early stages of the pandemic. Analyzed and compared this data with another dataset containing global vaccination information and its impact. Utilized SQL queries to extract insights from both datasets and visualized findings using Tableau.
